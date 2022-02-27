@@ -1,0 +1,32 @@
+{
+  "name": "nauka-gita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJendryczka/nauka-gita.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJendryczka/nauka-gita/issues"
+  },
+  "homepage": "https://github.com/DJendryczka/nauka-gita#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.27.7",
+    "html-validate": "^6.1.2",
+    "mkdirp": "^1.0.4",
+    "node-sass": "^6.0.1",
+    "npm-run-all": "^4.1.5",
+    "onchange": "^7.1.0",
+    "postcss": "^8.2.6",
+    "postcss-cli": "^8.3.1"
+  }
+}
